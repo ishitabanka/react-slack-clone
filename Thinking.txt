@@ -10,7 +10,15 @@
   * Users
   * Channels
   * Messages
-4. UI added
-5. to be added
+4. UI components
+  * sidebar 
+    * List of channel
+    * List of Direct Messages 
+  * Main container
+    * Header 
+    * Message component
+    * Create message component
+  * Sign in
+  * Sign up
 
 
