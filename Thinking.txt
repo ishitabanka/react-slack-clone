@@ -1,0 +1,15 @@
+1.wireframing-draw a rough sketch of what you are actually going to build
+2.Functionality 
+  * sign in
+  * sign up
+  * create a channel
+  * send message in a channel
+  * join a channel
+  * search a channel
+3. Data
+  * Users
+  * Channels
+  * Messages
+  * 
+
+
