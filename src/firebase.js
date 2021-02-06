@@ -25,6 +25,9 @@ export const signInWithGoogle = () => {
 export const signOut = () => {
   auth.signOut();
 };
+// Firestore stuff
+//export const firestore = firebase.firestore();
+window.firestore = firestore;
 
 export const createOrGetUserProfileDocument = async (user) => {
   if (!user) return;
